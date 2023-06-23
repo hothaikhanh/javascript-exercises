@@ -1,10 +1,5 @@
-const reverseString = function (text) {
-    let revText = "";
-    for (let index = 0; index < text.length; index++) {
-        revText.unshift(text[index]);
-    }
+const reverseString = function() {
 
-    return revText;
 };
 
 // Do not edit below this line
